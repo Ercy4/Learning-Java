@@ -22,4 +22,4 @@ This repo includes simple, functional applications designed to build my understa
 ## Technologies Used
 
 - Java
-- IDE: IntelliJ IDEA / VS Code / Eclipse
+- IDE: IntelliJ
