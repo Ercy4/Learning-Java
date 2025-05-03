@@ -1,4 +1,4 @@
-##Java Beginner Projects
+## Java Beginner Projects
 
 This repo includes simple, functional applications designed to build my understanding of core Java concepts.
 
